@@ -1,0 +1,1 @@
+../eslint-config-linmic/index.js
